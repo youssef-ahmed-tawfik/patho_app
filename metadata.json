@@ -1,0 +1,6 @@
+{
+  "name": "Veterinary Pathology Flashcards",
+  "description": "Interactive clinical hematology and pathology study flashcards covering Anemia, Cytology, and Organ Function.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
